@@ -1,0 +1,14 @@
+﻿201,"critical word, small family",,CW_S,
+202,"critical word, large family",,CW_L,
+203,"critical nonword, small family, complex",,,NW_S_COMP
+204,"critical nonword, large family, complex",,,NW_L_COMP
+205,"critical nonword, small family, simple",,,NW_S_SIMP
+206,"critical nonword, large family, simple",,,NW_L_SIMP
+207,filler word,FILL_W,,
+208,filler nonword,FILL_NW,,
+,,,,
+,,,,
+,,,,
+,,,,
+220,correct response,,,
+221,incorrect response,,,
