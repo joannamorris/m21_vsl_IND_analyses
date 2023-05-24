@@ -52,3 +52,10 @@ n250_nwords <- n250_nwords |>
 n250_nwords_subset <-  filter(n250_nwords, laterality == 0 & anteriority!= "O" |        
                                laterality == 3 | laterality == 4) #Extract 5 x 3 matrix for analysis (F3 to P4)
 
+# write function to replace missing values with the mean 
+
+impute.mean <- function(x) replace(x, is.na(x), mean(x, na.rm = TRUE))  # If the missing values are NA
+impute.mean2 <- function(x) replace(x, x == 0, mean(x, na.rm = TRUE))   # If the missing values are 0
+n250_words_imp <- n250_words_subset |> 
+  group_by(ERPset)|>
+  mutate(value_imp = impute.mean2(value))
