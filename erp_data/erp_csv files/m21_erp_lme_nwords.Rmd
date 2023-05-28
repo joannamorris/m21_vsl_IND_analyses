@@ -57,62 +57,139 @@ This chunk reads the dataset in long format into an R dataframe using the read.c
 n250_nwords_lme <- read_csv("m21_n250_frq_nwords_impvalue.csv", show_col_types = FALSE)
 ```
 
+Divide into two datasets
 
-## ANOVA for Non Words
+```{r}
+cmplx <- n250_nwords_lme |> filter(complexity == "Complex")
+smplx <- n250_nwords_lme |> filter(complexity == "Simple")
+```
+
+### Complexity by Language Type Model
+
+```{r , comment=NA}
+
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = n250_nwords_lme,REML=FALSE)
+summary(null.model)
+
+complexity.langtype.model = lmer(value_imp ~ 1 +  complexity * lang_type + laterality + anteriority + (1|SubjID) + (1|STIM), 
+                             data= n250_nwords_lme, REML=FALSE)
+summary(complexity.langtype.model)
+
+anova(null.model,complexity.langtype.model)
+```
+
+
+
+## ANOVA for Complex NonWords
 
 ### Null Model
 
 ```{r, comment=NA}
 
-nw.null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|ERPset) + (1|STIM), data = n250_nwords_lme,REML=FALSE)
-summary(nw.null.model)
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(null.model)
 ```
 
-### NW Type Model
+### Language Type Binary
 
-```{r , comment=NA}
+```{r}
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(null.model)
 
-nw.complexity.model = lmer(value_imp ~ 1 +  complexity + laterality + anteriority + (1|ERPset) + (1|STIM), 
-                             data= n250_nwords_lme, REML=FALSE)
-summary(complexity.model)
+langtype.model <- lmer(value_imp ~ 1 + lang_type + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(langtype.model)
+
+# Compare Null and Language Type Models
+anova(null.model,langtype.model)
+
 ```
 
-Compare Null and LogBF Models
+### Language Type Continuous
 
-```{r  null_main}
-anova(nw.null.model,nw.complexity.model)
+```{r}
+
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(null.model)
+langtype.continuous.model <- lmer(value_imp ~ 1 + Dim.2 + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(langtype.continuous.model)
+
+# Compare Null and Language Type Models
+
+anova(null.model,langtype.continuous.model)
 ```
+
+
 
 ### Familysize Model
 
 ```{r , comment=NA}
-nw.familysize.model = lmer(value_imp ~ 1 +  familysize_binary + laterality + anteriority + (1|ERPset) + (1|STIM), 
-                             data= n250_nwords_lme, REML=FALSE)
-summary(nw.familysize.model)
+
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(null.model)
+
+familysize.model = lmer(value_imp ~ 1 +  FamilySize + laterality + anteriority + (1|SubjID) + (1|STIM), 
+                             data= cmplx, REML=FALSE)
+summary(familysize.model)
+
+# Compare Null and FamilySize Models
+anova(null.model,familysize.model)
+```
+
+
+
+### Familysize Model Binary
+
+```{r , comment=NA}
+
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = cmplx,REML=FALSE)
+summary(null.model)
+
+familysize.model.bin = lmer(value_imp ~ 1 +  familysize_binary + laterality + anteriority + (1|SubjID) + (1|STIM), 
+                             data= cmplx, REML=FALSE)
+summary(familysize.model.bin)
+
+# Compare Null and FamilySize Models
+
+anova(null.model,familysize.model.bin)
+
 ```
 
 
 Compare Null and FamilySize Models
 
 ```{r  null_main}
-anova(nw.null.model, nw.familysize.model)
+anova(null.model,familysize.model.bin)
 ```
 
-### LogBF Model
 
-```{r, comment=NA}
+### FamilySize + LangType 
 
-nw.logBF.model = lmer(value_imp ~ 1 +  LogBF + laterality + anteriority + (1|ERPset) + (1|STIM), 
-                             data= n250_nwords_lme, REML=FALSE)
-summary(nw.logBF.model)
+
+```{r , comment=NA}
+familysize.langtype.model = lmer(value_imp ~ 1 +  FamilySize * lang_type + laterality + anteriority + (1|SubjID) + (1|STIM),
+                                 data= cmplx, REML=FALSE)
+summary(familysize.langtype.model)
 ```
 
-Compare Null and LogBF Models
+Compare Null and FamilySize/Lang Type Models
 
 ```{r  null_main}
-anova(nw.null.model,nw.logBF.model)
+anova(null.model,familysize.langtype.model)
 ```
 
+### FamilySize + LogBF
+
+```{r , comment=NA}
+familysize.LogBF.model = lmer(value_imp ~ 1 +  FamilySize * LogBF +laterality + anteriority + (1|SubjID) + (1|STIM), 
+                             data= cmplx, REML=FALSE)
+summary(familysize.LogBF.model)
+```
+
+Compare Null and FamilySize Models
+
+```{r  null_main}
+anova(null.model,familysize.LogBF.model)
+```
 
 
 
@@ -135,11 +212,24 @@ Given a set of candidate models for the data, the preferred model is the one wit
 From (https://www.scribbr.com/statistics/akaike-information-criterion/) : If a model is more than 2 AIC units lower than another, then it is considered significantly better than that model.
 
 
-
 ```{r aic_model_comparison}
 library(AICcmodavg)
-n250_models <- list(null.model, logBF.model,logSF.model, familysize.model)
-model.names <- c('null.model', 'logBF.models', 'logSF.model', 'familysize.model')
+n250_models <- list(null.model, 
+                    logBF.model, 
+                    logSF.model, 
+                    familysize.model, 
+                    familysize.model.bin,
+                    familysize.langtype.model,
+                    familysize.LogBF.model,
+                    familysize.LogSF.model)
+model.names <- c('null.model', 
+                 'logBF.model', 
+                 'logSF.model', 
+                 'familysize.model', 
+                 'familysize.model.bin',
+                 'familysize.langtype.model',
+                 'familysize.LogBF.model', 
+                 'familysize.LogSF.model')
 
 aictab(cand.set = n250_models, modnames = model.names)
 

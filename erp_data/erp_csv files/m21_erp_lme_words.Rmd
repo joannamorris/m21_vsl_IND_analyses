@@ -63,15 +63,37 @@ n250_words_lme <- read_csv("m21_n250_frq_words_impvalue.csv", show_col_types = F
 
 ```{r, comment=NA}
 
-null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|ERPset) + (1|STIM), data = n250_words_lme,REML=FALSE)
+null.model <-  lmer(value_imp ~ 1 + laterality + anteriority +(1|SubjID) + (1|STIM), data = n250_words_lme,REML=FALSE)
 summary(null.model)
+```
+
+
+### Language Type Binary
+
+```{r}
+langtype.model <- lmer(value_imp ~ 1 + lang_type + laterality + anteriority +(1|SubjID) + (1|STIM), data = n250_words_lme,REML=FALSE)
+summary(langtype.model)
+```
+
+### Language Type Continuous
+
+```{r}
+langtype.continuous.model <- lmer(value_imp ~ 1 + Dim.2 + laterality + anteriority +(1|SubjID) + (1|STIM), data = n250_words_lme,REML=FALSE)
+summary(langtype.continuous.model)
+```
+
+Compare Null and Language Type Models
+
+```{r  null_main}
+anova(null.model,langtype.model)
+anova(null.model,langtype.continuous.model)
 ```
 
 ### LogBF Model
 
 ```{r , comment=NA}
 
-logBF.model = lmer(value_imp ~ 1 +  LogBF + laterality + anteriority + (1|ERPset) + (1|STIM), 
+logBF.model = lmer(value_imp ~ 1 +  LogBF + laterality + anteriority + (1|SubjID) + (1|STIM), 
                              data= n250_words_lme, REML=FALSE)
 summary(logBF.model)
 ```
@@ -85,7 +107,7 @@ anova(null.model,logBF.model)
 ### LogSF Model
 
 ```{r , comment=NA}
-logSF.model = lmer(value_imp ~ 1 +   LogSF + laterality + anteriority + (1|ERPset) + (1|STIM), 
+logSF.model = lmer(value_imp ~ 1 +   LogSF + laterality + anteriority + (1|SubjID) + (1|STIM), 
                              data= n250_words_lme, REML=FALSE)
 summary(logSF.model)
 ```
@@ -100,7 +122,7 @@ anova(null.model,logSF.model)
 ### Familysize Model
 
 ```{r , comment=NA}
-familysize.model = lmer(value_imp ~ 1 +  FamilySize + laterality + anteriority + (1|ERPset) + (1|STIM), 
+familysize.model = lmer(value_imp ~ 1 +  FamilySize + laterality + anteriority + (1|SubjID) + (1|STIM), 
                              data= n250_words_lme, REML=FALSE)
 summary(familysize.model)
 ```
@@ -115,7 +137,7 @@ anova(null.model,familysize.model)
 ### Familysize Model Binary
 
 ```{r , comment=NA}
-familysize.model.bin = lmer(value_imp ~ 1 +  familysize_binary + laterality + anteriority + (1|ERPset) + (1|STIM), 
+familysize.model.bin = lmer(value_imp ~ 1 +  familysize_binary + laterality + anteriority + (1|SubjID) + (1|STIM), 
                              data= n250_words_lme, REML=FALSE)
 summary(familysize.model.bin)
 ```
@@ -128,11 +150,25 @@ anova(null.model,familysize.model.bin)
 ```
 
 
-### FamilySize + LogBF
+### FamilySize + LangType 
 
 
 ```{r , comment=NA}
-familysize.LogBF.model = lmer(value_imp ~ 1 +  FamilySize * LogBF +laterality + anteriority + (1|ERPset) + (1|STIM), 
+familysize.langtype.model = lmer(value_imp ~ 1 +  FamilySize * lang_type + laterality + anteriority + (1|SubjID) + (1|STIM),
+                                 data= n250_words_lme, REML=FALSE)
+summary(familysize.langtype.model)
+```
+
+Compare Null and FamilySize/Lang Type Models
+
+```{r  null_main}
+anova(null.model,familysize.langtype.model)
+```
+
+### FamilySize + LogBF
+
+```{r , comment=NA}
+familysize.LogBF.model = lmer(value_imp ~ 1 +  FamilySize * LogBF +laterality + anteriority + (1|SubjID) + (1|STIM), 
                              data= n250_words_lme, REML=FALSE)
 summary(familysize.LogBF.model)
 ```
@@ -147,7 +183,7 @@ anova(null.model,familysize.LogBF.model)
 
 
 ```{r , comment=NA}
-familysize.LogSF.model = lmer(value_imp ~ 1 +  FamilySize * LogSF +laterality + anteriority + (1|ERPset) + (1|STIM), 
+familysize.LogSF.model = lmer(value_imp ~ 1 +  FamilySize * LogSF +laterality + anteriority + (1|SubjID) + (1|STIM), 
                              data= n250_words_lme, REML=FALSE)
 summary(familysize.LogSF.model)
 ```
@@ -183,7 +219,8 @@ n250_models <- list(null.model,
                     logBF.model, 
                     logSF.model, 
                     familysize.model, 
-                    familysize.model.bin, 
+                    familysize.model.bin,
+                    familysize.langtype.model,
                     familysize.LogBF.model,
                     familysize.LogSF.model)
 model.names <- c('null.model', 
@@ -191,8 +228,9 @@ model.names <- c('null.model',
                  'logSF.model', 
                  'familysize.model', 
                  'familysize.model.bin',
+                 'familysize.langtype.model',
                  'familysize.LogBF.model', 
-                 'familysize.LogSF.model' )
+                 'familysize.LogSF.model')
 
 aictab(cand.set = n250_models, modnames = model.names)
 
