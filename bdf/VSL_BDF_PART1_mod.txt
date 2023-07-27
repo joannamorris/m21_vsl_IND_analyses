@@ -1,0 +1,2303 @@
+Bin 1
+rep 1 shape 1 triplet 1 
+.{11}{11}{11}
+
+Bin 2 
+rep 1 shape 1 triplet 2 
+.{12}{12}{12}
+ 
+Bin 3 
+rep 1 shape 1 triplet 3 
+.{13}{13}{13}
+
+Bin 4 
+rep 1 shape 1 triplet 4  
+.{14}{14}{14}
+ 
+Bin 5 
+rep 1 shape 1 triplet 5
+.{15}{15}{15}
+
+Bin 6 
+rep 1 shape 1 triplet 6
+.{16}{16}{16}
+ 
+Bin 7 
+rep 1 shape 1 triplet 7
+.{17}{17}{17}
+
+Bin 8
+rep 1 shape 1 triplet 8
+.{18}{18}{18}
+
+Bin 9
+rep 1 shape 2 triplet 1 
+{11}.{11}{11}
+
+Bin 10
+rep 1 shape 2 triplet 2
+{12}.{12}{12}
+
+Bin 11 
+rep 1 shape 2 triplet 2
+{13}.{13}{13}
+
+Bin 12
+rep 1 shape 2 triplet 2
+{14}.{14}{14}
+
+Bin 13
+rep 1 shape 2 triplet 2
+{15}.{15}{15}
+
+Bin 14
+rep 1 shape 2 triplet 2
+{16}.{16}{16}
+
+Bin 15
+rep 1 shape 2 triplet 2
+{17}.{17}{17}
+
+Bin 16
+rep 1 shape 2 triplet 2
+{18}.{18}{18}
+
+Bin 17
+rep 1 shape 3 triplet 1 
+{11}{11}.{11}
+
+Bin 18
+rep 1 shape 3 triplet 2
+{12}{12}.{12}
+
+Bin 19
+rep 1 shape 3 triplet 3
+{13}{13}.{13}
+
+Bin 20
+rep 1 shape 3 triplet 4
+{14}{14}.{14}
+
+Bin 21
+rep 1 shape 3 triplet 5
+{15}{15}.{15}
+
+Bin 22
+rep 1 shape 3 triplet 6
+{16}{16}.{16}
+
+Bin 23
+rep 1 shape 3 triplet 7
+{17}{17}.{17}
+
+Bin 24
+rep 1 shape 3 triplet 8
+{18}{18}.{18}
+
+Bin 25
+rep 2 shape 1 triplet 1 
+.{21}{21}{21}
+
+Bin 26
+rep 2 shape 1 triplet 2 
+.{22}{22}{22}
+
+Bin 27
+rep 2 shape 1 triplet 3
+.{23}{23}{23}
+
+Bin 28
+rep 2 shape 1 triplet 4 
+.{24}{24}{24}
+
+Bin 29
+rep 2 shape 1 triplet 5 
+.{25}{25}{25}
+
+Bin 30
+rep 2 shape 1 triplet 6 
+.{26}{26}{26}
+
+Bin 31
+rep 2 shape 1 triplet 7 
+.{27}{27}{27}
+
+Bin 32
+rep 2 shape 1 triplet 8 
+.{28}{28}{28}
+
+Bin 33
+rep 2 shape 2 triplet 1 
+{21}.{21}{21}
+
+Bin 34
+rep 2 shape 2 triplet 2 
+{22}.{22}{22}
+
+Bin 35
+rep 2 shape 2 triplet 3
+{23}.{23}{23}
+
+Bin 36
+rep 2 shape 2 triplet 4 
+{24}.{24}{24}
+
+Bin 37
+rep 2 shape 2 triplet 5 
+{25}.{25}{25}
+
+Bin 38
+rep 2 shape 2 triplet 6 
+{26}.{26}{26}
+
+Bin 39
+rep 2 shape 2 triplet 7 
+{27}.{27}{27}
+
+Bin 40
+rep 2 shape 2 triplet 8 
+{28}.{28}{28}
+
+Bin 41
+rep 2 shape 3 triplet 1 
+{21}{21}.{21}
+
+Bin 42
+rep 2 shape 3 triplet 2 
+{22}{22}.{22}
+
+Bin 43
+rep 2 shape 3 triplet 3
+{23}{23}.{23}
+
+Bin 44
+rep 2 shape 3 triplet 4 
+{24}{24}.{24}
+
+Bin 45
+rep 2 shape 3 triplet 5 
+{25}{25}.{25}
+
+Bin 46
+rep 2 shape 3 triplet 6 
+{26}{26}.{26}
+
+Bin 47
+rep 2 shape 3 triplet 7 
+{27}{27}.{27}
+
+Bin 48
+rep 2 shape 3 triplet 8 
+{28}{28}.{28}
+
+Bin 49
+rep 3 shape 1 triplet 1 
+.{31}{31}{31}
+
+Bin 50
+rep 3 shape 1 triplet 2
+.{32}{32}{32}
+
+Bin 51
+rep 3 shape 1 triplet 3 
+.{33}{33}{33}
+
+Bin 52
+rep 3 shape 1 triplet 4 
+.{34}{34}{34}
+
+Bin 53
+rep 3 shape 1 triplet 5 
+.{35}{35}{35}
+
+Bin 54
+rep 3 shape 1 triplet 6 
+.{36}{36}{36}
+
+Bin 55
+rep 3 shape 1 triplet 7 
+.{37}{37}{37}
+
+Bin 56
+rep 3 shape 1 triplet 8 
+.{38}{38}{38}
+
+Bin 57
+rep 3 shape 2 triplet 1
+{31}.{31}{31}
+
+Bin 58
+rep 3 shape 2 triplet 2
+{32}.{32}{32}
+
+Bin 59
+rep 3 shape 2 triplet 3
+{33}.{33}{33}
+
+Bin 60
+rep 3 shape 2 triplet 4
+{34}.{34}{34}
+
+Bin 61
+rep 3 shape 2 triplet 5
+{35}.{35}{35}
+
+Bin 62
+rep 3 shape 2 triplet 6
+{36}.{36}{36}
+
+Bin 63
+rep 3 shape 2 triplet 7
+{37}.{37}{37}
+
+Bin 64
+rep 3 shape 2 triplet 8
+{38}.{38}{38}
+
+Bin 65
+rep 3 shape 3 triplet 1
+{31}{31}.{31}
+
+Bin 66
+rep 3 shape 3 triplet 2
+{32}{32}.{32}
+
+Bin 67
+rep 3 shape 3 triplet 3
+{33}{33}.{33}
+
+Bin 68
+rep 3 shape 3 triplet 4
+{34}{34}.{34}
+
+Bin 69
+rep 3 shape 3 triplet 5
+{35}{35}.{35}
+
+Bin 70
+rep 3 shape 3 triplet 6
+{36}{36}.{36}
+
+Bin 71
+rep 3 shape 3 triplet 7
+{37}{37}.{37}
+
+Bin 72
+rep 3 shape 3 triplet 8
+{38}{38}.{38}
+
+Bin 73
+rep 4 shape 1 triplet 1
+.{41}{41}{41}
+
+Bin 74
+rep 4 shape 1 triplet 2
+.{42}{42}{42}
+
+Bin 75
+rep 4 shape 1 triplet 3
+.{43}{43}{43}
+
+Bin 76
+rep 4 shape 1 triplet 4
+.{44}{44}{44}
+
+Bin 77
+rep 4 shape 1 triplet 5
+.{45}{45}{45}
+
+Bin 78
+rep 4 shape 1 triplet 6
+.{46}{46}{46}
+
+Bin 79
+rep 4 shape 1 triplet 7
+.{47}{47}{47}
+
+Bin 80
+rep 4 shape 1 triplet 8
+.{48}{48}{48}
+
+Bin 81
+rep 4 shape 2 triplet 1
+{41}.{41}{41}
+
+Bin 82
+rep 4 shape 2 triplet 2
+{42}.{42}{42}
+
+Bin 83
+rep 4 shape 2 triplet 3
+{43}.{43}{43}
+
+Bin 84
+rep 4 shape 2 triplet 4
+{44}.{44}{44}
+
+Bin 85
+rep 4 shape 2 triplet 5
+{45}.{45}{45}
+
+Bin 86
+rep 4 shape 2 triplet 6
+{46}.{46}{46}
+
+Bin 87
+rep 4 shape 2 triplet 7
+{47}.{47}{47}
+
+Bin 88
+rep 4 shape 2 triplet 8
+{48}.{48}{48}
+
+Bin 89
+rep 4 shape 3 triplet 1
+{41}{41}.{41}
+
+Bin 90
+rep 4 shape 3 triplet 2
+{42}{42}.{42}
+
+Bin 91
+rep 4 shape 3 triplet 3
+{43}{43}.{43}
+
+Bin 92
+rep 4 shape 3 triplet 4
+{44}{44}.{44}
+
+Bin 93
+rep 4 shape 3 triplet 5
+{45}{45}.{45}
+
+Bin 94
+rep 4 shape 3 triplet 6
+{46}{46}.{46}
+
+Bin 95
+rep 4 shape 3 triplet 7
+{47}{47}.{47}
+
+Bin 96
+rep 4 shape 3 triplet 8
+{48}{48}.{48}
+
+Bin 97
+rep 5 shape 1 triplet 1
+.{51}{51}{51}
+
+Bin 98
+rep 5 shape 1 triplet 2
+.{52}{52}{52}
+
+Bin 99
+rep 5 shape 1 triplet 3
+.{53}{53}{53}
+
+Bin 100
+rep 5 shape 1 triplet 4
+.{54}{54}{54}
+
+Bin 101
+rep 5 shape 1 triplet 5
+.{55}{55}{55}
+
+Bin 102
+rep 5 shape 1 triplet 6
+.{56}{56}{56}
+
+Bin 103
+rep 5 shape 1 triplet 7
+.{57}{57}{57}
+
+Bin 104
+rep 5 shape 1 triplet 8
+.{58}{58}{58}
+
+Bin 105
+rep 5 shape 2 triplet 1
+{51}.{51}{51}
+
+Bin 106
+rep 5 shape 2 triplet 2
+{52}.{52}{52}
+
+Bin 107
+rep 5 shape 2 triplet 3
+{53}.{53}{53}
+
+Bin 108
+rep 5 shape 2 triplet 4
+{54}.{54}{54}
+
+Bin 109
+rep 5 shape 2 triplet 5
+{55}.{55}{55}
+
+Bin 110
+rep 5 shape 2 triplet 6
+{56}.{56}{56}
+
+Bin 111
+rep 5 shape 2 triplet 7
+{57}.{57}{57}
+
+Bin 112
+rep 5 shape 2 triplet 8
+{58}.{58}{58}
+
+Bin 113
+rep 5 shape 3 triplet 1
+{51}{51}.{51}
+
+Bin 114
+rep 5 shape 3 triplet 2
+{52}{52}.{52}
+
+Bin 115
+rep 5 shape 3 triplet 3
+{53}{53}.{53}
+
+Bin 116
+rep 5 shape 3 triplet 4
+{54}{54}.{54}
+
+Bin 117
+rep 5 shape 3 triplet 5
+{55}{55}.{55}
+
+Bin 118
+rep 5 shape 3 triplet 6
+{56}{56}.{56}
+
+Bin 119
+rep 5 shape 3 triplet 7
+{57}{57}.{57}
+
+Bin 120
+rep 5 shape 3 triplet 8
+{58}{58}.{58}
+
+Bin 121
+rep 6 shape 1 triplet 1
+.{61}{61}{61}
+
+Bin 122
+rep 6 shape 1 triplet 2
+.{62}{62}{62}
+
+Bin 123
+rep 6 shape 1 triplet 3
+.{63}{63}{63}
+
+Bin 124
+rep 6 shape 1 triplet 4
+.{64}{64}{64}
+
+Bin 125
+rep 6 shape 1 triplet 5
+.{65}{65}{65}
+
+Bin 126
+rep 6 shape 1 triplet 6
+.{66}{66}{66}
+
+Bin 127
+rep 6 shape 1 triplet 7
+.{67}{67}{67}
+
+Bin 128
+rep 6 shape 1 triplet 8
+.{68}{68}{68}
+
+Bin 129
+rep 6 shape 2 triplet 1
+{61}.{61}{61}
+
+Bin 130
+rep 6 shape 2 triplet 2
+{62}.{62}{62}
+
+Bin 131
+rep 6 shape 2 triplet 3
+{63}.{63}{63}
+
+Bin 132
+rep 6 shape 2 triplet 4
+{64}.{64}{64}
+
+Bin 133
+rep 6 shape 2 triplet 5
+{65}.{65}{65}
+
+Bin 134
+rep 6 shape 2 triplet 6
+{66}.{66}{66}
+
+Bin 135
+rep 6 shape 2 triplet 7
+{67}.{67}{67}
+
+Bin 136
+rep 6 shape 2 triplet 8
+{68}.{68}{68}
+
+Bin 137
+rep 6 shape 3 triplet 1
+{61}{61}.{61}
+
+Bin 138
+rep 6 shape 3 triplet 2
+{62}{62}.{62}
+
+Bin 139
+rep 6 shape 3 triplet 3
+{63}{63}.{63}
+
+Bin 140
+rep 6 shape 3 triplet 4
+{64}{64}.{64}
+
+Bin 141
+rep 6 shape 3 triplet 5
+{65}{65}.{65}
+
+Bin 142
+rep 6 shape 3 triplet 6
+{66}{66}.{66}
+
+Bin 143
+rep 6 shape 3 triplet 7
+{67}{67}.{67}
+
+Bin 144
+rep 6 shape 3 triplet 8
+{68}{68}.{68}
+
+Bin 145
+rep 7 shape 1 triplet 1
+.{71}{71}{71}
+
+Bin 146
+rep 7 shape 1 triplet 2
+.{72}{72}{72}
+
+Bin 147
+rep 7 shape 1 triplet 3
+.{73}{73}{73}
+
+Bin 148
+rep 7 shape 1 triplet 4
+.{74}{74}{74}
+
+Bin 149
+rep 7 shape 1 triplet 5
+.{75}{75}{75}
+
+Bin 150
+rep 7 shape 1 triplet 6
+.{76}{76}{76}
+
+Bin 151
+rep 7 shape 1 triplet 7
+.{77}{77}{77}
+
+Bin 152
+rep 7 shape 1 triplet 8
+.{78}{78}{78}
+
+Bin 153
+rep 7 shape 2 triplet 1
+{71}.{71}{71}
+
+Bin 154
+rep 7 shape 2 triplet 2
+{72}.{72}{72}
+
+Bin 155
+rep 7 shape 2 triplet 3
+{73}.{73}{73}
+
+Bin 156
+rep 7 shape 2 triplet 4
+{74}.{74}{74}
+
+Bin 157
+rep 7 shape 2 triplet 5
+{75}.{75}{75}
+
+Bin 158
+rep 7 shape 2 triplet 6
+{76}.{76}{76}
+
+Bin 159
+rep 7 shape 2 triplet 7
+{77}.{77}{77}
+
+Bin 160
+rep 7 shape 2 triplet 8
+{78}.{78}{78}
+
+Bin 161
+rep 7 shape 3 triplet 1
+{71}{71}.{71}
+
+Bin 162
+rep 7 shape 3 triplet 2
+{72}{72}.{72}
+
+Bin 163
+rep 7 shape 3 triplet 3
+{73}{73}.{73}
+
+Bin 164
+rep 7 shape 3 triplet 4
+{74}{74}.{74}
+
+Bin 165
+rep 7 shape 3 triplet 5
+{75}{75}.{75}
+
+Bin 166
+rep 7 shape 3 triplet 6
+{76}{76}.{76}
+
+Bin 167
+rep 7 shape 3 triplet 7
+{77}{77}.{77}
+
+Bin 168
+rep 7 shape 3 triplet 8
+{78}{78}.{78}
+
+Bin 169
+rep 8 shape 1 triplet 1
+.{81}{81}{81}
+
+Bin 170
+rep 8 shape 1 triplet 2
+.{82}{82}{82}
+
+Bin 171
+rep 8 shape 1 triplet 3
+.{83}{83}{83}
+
+Bin 172
+rep 8 shape 1 triplet 4
+.{84}{84}{84}
+
+Bin 173
+rep 8 shape 1 triplet 5
+.{85}{85}{85}
+
+Bin 174
+rep 8 shape 1 triplet 6
+.{86}{86}{86}
+
+Bin 175
+rep 8 shape 1 triplet 7
+.{87}{87}{87}
+
+Bin 176
+rep 8 shape 1 triplet 8
+.{88}{88}{88}
+
+Bin 177
+rep 8 shape 2 triplet 1
+{81}.{81}{81}
+
+Bin 178
+rep 8 shape 2 triplet 2
+{82}.{82}{82}
+
+Bin 179
+rep 8 shape 2 triplet 3
+{83}.{83}{83}
+
+Bin 180
+rep 8 shape 2 triplet 4
+{84}.{84}{84}
+
+Bin 181
+rep 8 shape 2 triplet 5
+{85}.{85}{85}
+
+Bin 182
+rep 8 shape 2 triplet 6
+{86}.{86}{86}
+
+Bin 183
+rep 8 shape 2 triplet 7
+{87}.{87}{87}
+
+Bin 184
+rep 8 shape 2 triplet 8
+{88}.{88}{88}
+
+Bin 185
+rep 8 shape 3 triplet 1
+{81}{81}.{81}
+
+Bin 186
+rep 8 shape 3 triplet 2
+{82}{82}.{82}
+
+Bin 187
+rep 8 shape 3 triplet 3
+{83}{83}.{83}
+
+Bin 188
+rep 8 shape 3 triplet 4
+{84}{84}.{84}
+
+Bin 189
+rep 8 shape 3 triplet 5
+{85}{85}.{85}
+
+Bin 190
+rep 8 shape 3 triplet 6
+{86}{86}.{86}
+
+Bin 191
+rep 8 shape 3 triplet 7
+{87}{87}.{87}
+
+Bin 192
+rep 8 shape 3 triplet 8
+{88}{88}.{88}
+
+Bin 193
+rep 9 shape 1 triplet 1
+.{91}{91}{91}
+
+Bin 194
+rep 9 shape 1 triplet 2
+.{92}{92}{92}
+
+Bin 195
+rep 9 shape 1 triplet 3
+.{93}{93}{93}
+
+Bin 196
+rep 9 shape 1 triplet 4
+.{94}{94}{94}
+
+Bin 197
+rep 9 shape 1 triplet 5
+.{95}{95}{95}
+
+Bin 198
+rep 9 shape 1 triplet 6
+.{96}{96}{96}
+
+Bin 199
+rep 9 shape 1 triplet 7
+.{97}{97}{97}
+
+Bin 200
+rep 9 shape 1 triplet 8
+.{98}{98}{98}
+
+Bin 201
+rep 9 shape 2 triplet 1
+{91}.{91}{91}
+
+Bin 202
+rep 9 shape 2 triplet 2
+{92}.{92}{92}
+
+Bin 203
+rep 9 shape 2 triplet 3
+{93}.{93}{93}
+
+Bin 204
+rep 9 shape 2 triplet 4
+{94}.{94}{94}
+
+Bin 205
+rep 9 shape 2 triplet 5
+{95}.{95}{95}
+
+Bin 206
+rep 9 shape 2 triplet 6
+{96}.{96}{96}
+
+Bin 207
+rep 9 shape 2 triplet 7
+{97}.{97}{97}
+
+Bin 208
+rep 9 shape 2 triplet 8
+{98}.{98}{98}
+
+Bin 209
+rep 9 shape 3 triplet 1
+{91}{91}.{91}
+
+Bin 210
+rep 9 shape 3 triplet 2
+{92}{92}.{92}
+
+Bin 211
+rep 9 shape 3 triplet 3
+{93}{93}.{93}
+
+Bin 212
+rep 9 shape 3 triplet 4
+{94}{94}.{94}
+
+Bin 213
+rep 9 shape 3 triplet 5
+{95}{95}.{95}
+
+Bin 214
+rep 9 shape 3 triplet 6
+{96}{96}.{96}
+
+Bin 215
+rep 9 shape 3 triplet 7
+{97}{97}.{97}
+
+Bin 216
+rep 9 shape 3 triplet 8
+{98}{98}.{98}
+
+Bin 217
+rep 10 shape 1 triplet 1
+.{101}{101}{101}
+
+Bin 218
+rep 10 shape 1 triplet 2
+.{102}{102}{102}
+
+Bin 219
+rep 10 shape 1 triplet 3
+.{103}{103}{103}
+
+Bin 220
+rep 10 shape 1 triplet 4
+.{104}{104}{104}
+
+Bin 221
+rep 10 shape 1 triplet 5
+.{105}{105}{105}
+
+Bin 222
+rep 10 shape 1 triplet 6
+.{106}{106}{106}
+
+Bin 223
+rep 10 shape 1 triplet 7
+.{107}{107}{107}
+
+Bin 224
+rep 10 shape 1 triplet 8
+.{108}{108}{108}
+
+Bin 225
+rep 10 shape 2 triplet 1
+{101}.{101}{101}
+
+Bin 226
+rep 10 shape 2 triplet 2
+{102}.{102}{102}
+
+Bin 227
+rep 10 shape 2 triplet 3
+{103}.{103}{103}
+
+Bin 228
+rep 10 shape 2 triplet 4
+{104}.{104}{104}
+
+Bin 229
+rep 10 shape 2 triplet 5
+{105}.{105}{105}
+
+Bin 230
+rep 10 shape 2 triplet 6
+{106}.{106}{106}
+
+Bin 231
+rep 10 shape 2 triplet 7
+{107}.{107}{107}
+
+Bin 232
+rep 10 shape 2 triplet 8
+{108}.{108}{108}
+
+Bin 233
+rep 10 shape 3 triplet 1
+{101}{101}.{101}
+
+Bin 234
+rep 10 shape 3 triplet 2
+{102}{102}.{102}
+
+Bin 235
+rep 10 shape 3 triplet 3
+{103}{103}.{103}
+
+Bin 236
+rep 10 shape 3 triplet 4
+{104}{104}.{104}
+
+Bin 237
+rep 10 shape 3 triplet 5
+{105}{105}.{105}
+
+Bin 238
+rep 10 shape 3 triplet 6
+{106}{106}.{106}
+
+Bin 239
+rep 10 shape 3 triplet 7
+{107}{107}.{107}
+
+Bin 240
+rep 10 shape 3 triplet 8
+{108}{108}.{108}
+
+Bin 241
+rep 11 shape 1 triplet 1
+.{111}{111}{111}
+
+Bin 242
+rep 11 shape 1 triplet 2
+.{112}{112}{112}
+
+Bin 243
+rep 11 shape 1 triplet 3
+.{113}{113}{113}
+
+Bin 244
+rep 11 shape 1 triplet 4
+.{114}{114}{114}
+
+Bin 245
+rep 11 shape 1 triplet 5
+.{115}{115}{115}
+
+Bin 246
+rep 11 shape 1 triplet 6
+.{116}{116}{116}
+
+Bin 247
+rep 11 shape 1 triplet 7
+.{117}{117}{117}
+
+Bin 248
+rep 11 shape 1 triplet 8
+.{118}{118}{118}
+
+Bin 249
+rep 11 shape 2 triplet 1
+{111}.{111}{111}
+
+Bin 250
+rep 11 shape 2 triplet 2
+{112}.{112}{112}
+
+Bin 251
+rep 11 shape 2 triplet 3
+{113}.{113}{113}
+
+Bin 252
+rep 11 shape 2 triplet 4
+{114}.{114}{114}
+
+Bin 253
+rep 11 shape 2 triplet 5
+{115}.{115}{115}
+
+Bin 254
+rep 11 shape 2 triplet 6
+{116}.{116}{116}
+
+Bin 255
+rep 11 shape 2 triplet 7
+{117}.{117}{117}
+
+Bin 256
+rep 11 shape 2 triplet 8
+{118}.{118}{118}
+
+Bin 257
+rep 11 shape 3 triplet 1
+{111}{111}.{111}
+
+Bin 258
+rep 11 shape 3 triplet 2
+{112}{112}.{112}
+
+Bin 259
+rep 11 shape 3 triplet 3
+{113}{113}.{113}
+
+Bin 260
+rep 11 shape 3 triplet 4
+{114}{114}.{114}
+
+Bin 261
+rep 11 shape 3 triplet 5
+{115}{115}.{115}
+
+Bin 262
+rep 11 shape 3 triplet 6
+{116}{116}.{116}
+
+Bin 263
+rep 11 shape 3 triplet 7
+{117}{117}.{117}
+
+Bin 264
+rep 11 shape 3 triplet 8
+{118}{118}.{118}
+
+Bin 265
+rep 12 shape 1 triplet 1
+.{121}{121}{121}
+
+Bin 266
+rep 12 shape 1 triplet 2
+.{122}{122}{122}
+
+Bin 267
+rep 12 shape 1 triplet 3
+.{123}{123}{123}
+
+Bin 268
+rep 12 shape 1 triplet 4
+.{124}{124}{124}
+
+Bin 269
+rep 12 shape 1 triplet 5
+.{125}{125}{125}
+
+Bin 270
+rep 12 shape 1 triplet 6
+.{126}{126}{126}
+
+Bin 271
+rep 12 shape 1 triplet 7
+.{127}{127}{127}
+
+Bin 272
+rep 12 shape 1 triplet 8
+.{128}{128}{128}
+
+Bin 273
+rep 12 shape 2 triplet 1
+{121}.{121}{121}
+
+Bin 274
+rep 12 shape 2 triplet 2
+{122}.{122}{122}
+
+Bin 275
+rep 12 shape 2 triplet 3
+{123}.{123}{123}
+
+Bin 276
+rep 12 shape 2 triplet 4
+{124}.{124}{124}
+
+Bin 277
+rep 12 shape 2 triplet 5
+{125}.{125}{125}
+
+Bin 278
+rep 12 shape 2 triplet 6
+{126}.{126}{126}
+
+Bin 279
+rep 12 shape 2 triplet 7
+{127}.{127}{127}
+
+Bin 280
+rep 12 shape 2 triplet 8
+{128}.{128}{128}
+
+Bin 281
+rep 12 shape 3 triplet 1
+{121}{121}.{121}
+
+Bin 282
+rep 12 shape 3 triplet 2
+{122}{122}.{122}
+
+Bin 283
+rep 12 shape 3 triplet 3
+{123}{123}.{123}
+
+Bin 284
+rep 12 shape 3 triplet 4
+{124}{124}.{124}
+
+Bin 285
+rep 12 shape 3 triplet 5
+{125}{125}.{125}
+
+Bin 286
+rep 12 shape 3 triplet 6
+{126}{126}.{126}
+
+Bin 287
+rep 12 shape 3 triplet 7
+{127}{127}.{127}
+
+Bin 288
+rep 12 shape 3 triplet 8
+{128}{128}.{128}
+
+Bin 289
+rep 13 shape 1 triplet 1
+.{131}{131}{131}
+
+Bin 290
+rep 13 shape 1 triplet 2
+.{132}{132}{132}
+
+Bin 291
+rep 13 shape 1 triplet 3
+.{133}{133}{133}
+
+Bin 292
+rep 13 shape 1 triplet 4
+.{134}{134}{134}
+
+Bin 293
+rep 13 shape 1 triplet 5
+.{135}{135}{135}
+
+Bin 294
+rep 13 shape 1 triplet 6
+.{136}{136}{136}
+
+Bin 295
+rep 13 shape 1 triplet 7
+.{137}{137}{137}
+
+Bin 296
+rep 13 shape 1 triplet 8
+.{138}{138}{138}
+
+Bin 297
+rep 13 shape 2 triplet 1
+{131}.{131}{131}
+
+Bin 298
+rep 13 shape 2 triplet 2
+{132}.{132}{132}
+
+Bin 299
+rep 13 shape 2 triplet 3
+{133}.{133}{133}
+
+Bin 300
+rep 13 shape 2 triplet 4
+{134}.{134}{134}
+
+Bin 301
+rep 13 shape 2 triplet 5
+{135}.{135}{135}
+
+Bin 302
+rep 13 shape 2 triplet 6
+{136}.{136}{136}
+
+Bin 303
+rep 13 shape 2 triplet 7
+{137}.{137}{137}
+
+Bin 304
+rep 13 shape 2 triplet 8
+{138}.{138}{138}
+
+Bin 305
+rep 13 shape 3 triplet 1
+{131}{131}.{131}
+
+Bin 306
+rep 13 shape 3 triplet 2
+{132}{132}.{132}
+
+Bin 307
+rep 13 shape 3 triplet 3
+{133}{133}.{133}
+
+Bin 308
+rep 13 shape 3 triplet 4
+{134}{134}.{134}
+
+Bin 309
+rep 13 shape 3 triplet 5
+{135}{135}.{135}
+
+Bin 310
+rep 13 shape 3 triplet 6
+{136}{136}.{136}
+
+Bin 311
+rep 13 shape 3 triplet 7
+{137}{137}.{137}
+
+Bin 312
+rep 13 shape 3 triplet 8
+{138}{138}.{138}
+
+Bin 313
+rep 14 shape 1 triplet 1
+.{141}{141}{141}
+
+Bin 314
+rep 14 shape 1 triplet 2
+.{142}{142}{142}
+
+Bin 315
+rep 14 shape 1 triplet 3
+.{143}{143}{143}
+
+Bin 316
+rep 14 shape 1 triplet 4
+.{144}{144}{144}
+
+Bin 317
+rep 14 shape 1 triplet 5
+.{145}{145}{145}
+
+Bin 318
+rep 14 shape 1 triplet 6
+.{146}{146}{146}
+
+Bin 319
+rep 14 shape 1 triplet 7
+.{147}{147}{147}
+
+Bin 320
+rep 14 shape 1 triplet 8
+.{148}{148}{148}
+
+Bin 321
+rep 14 shape 2 triplet 1
+{141}.{141}{141}
+
+Bin 322
+rep 14 shape 2 triplet 2
+{142}.{142}{142}
+
+Bin 323
+rep 14 shape 2 triplet 3
+{143}.{143}{143}
+
+Bin 324
+rep 14 shape 2 triplet 4
+{144}.{144}{144}
+
+Bin 325
+rep 14 shape 2 triplet 5
+{145}.{145}{145}
+
+Bin 326
+rep 14 shape 2 triplet 6
+{146}.{146}{146}
+
+Bin 327
+rep 14 shape 2 triplet 7
+{147}.{147}{147}
+
+Bin 328
+rep 14 shape 2 triplet 8
+{148}.{148}{148}
+
+Bin 329
+rep 14 shape 3 triplet 1
+{141}{141}.{141}
+
+Bin 330
+rep 14 shape 3 triplet 2
+{142}{142}.{142}
+
+Bin 331
+rep 14 shape 3 triplet 3
+{143}{143}.{143}
+
+Bin 332
+rep 14 shape 3 triplet 4
+{144}{144}.{144}
+
+Bin 333
+rep 14 shape 3 triplet 5
+{145}{145}.{145}
+
+Bin 334
+rep 14 shape 3 triplet 6
+{146}{146}.{146}
+
+Bin 335
+rep 14 shape 3 triplet 7
+{147}{147}.{147}
+
+Bin 336
+rep 14 shape 3 triplet 8
+{148}{148}.{148}
+
+Bin 337
+rep 15 shape 1 triplet 1
+.{151}{151}{151}
+
+Bin 338
+rep 15 shape 1 triplet 2
+.{152}{152}{152}
+
+Bin 339
+rep 15 shape 1 triplet 3
+.{153}{153}{153}
+
+Bin 340
+rep 15 shape 1 triplet 4
+.{154}{154}{154}
+
+Bin 341
+rep 15 shape 1 triplet 5
+.{155}{155}{155}
+
+Bin 342
+rep 15 shape 1 triplet 6
+.{156}{156}{156}
+
+Bin 343
+rep 15 shape 1 triplet 7
+.{157}{157}{157}
+
+Bin 344
+rep 15 shape 1 triplet 8
+.{158}{158}{158}
+
+Bin 345
+rep 15 shape 2 triplet 1
+{151}.{151}{151}
+
+Bin 346
+rep 15 shape 2 triplet 2
+{152}.{152}{152}
+
+Bin 347
+rep 15 shape 2 triplet 3
+{153}.{153}{153}
+
+Bin 348
+rep 15 shape 2 triplet 4
+{154}.{154}{154}
+
+Bin 349
+rep 15 shape 2 triplet 5
+{155}.{155}{155}
+
+Bin 350
+rep 15 shape 2 triplet 6
+{156}.{156}{156}
+
+Bin 351
+rep 15 shape 2 triplet 7
+{157}.{157}{157}
+
+Bin 352
+rep 15 shape 2 triplet 8
+{158}.{158}{158}
+
+Bin 353
+rep 15 shape 3 triplet 1
+{151}{151}.{151}
+
+Bin 354
+rep 15 shape 3 triplet 2
+{152}{152}.{152}
+
+Bin 355
+rep 15 shape 3 triplet 3
+{153}{153}.{153}
+
+Bin 356
+rep 15 shape 3 triplet 4
+{154}{154}.{154}
+
+Bin 357
+rep 15 shape 3 triplet 5
+{155}{155}.{155}
+
+Bin 358
+rep 15 shape 3 triplet 6
+{156}{156}.{156}
+
+Bin 359
+rep 15 shape 3 triplet 7
+{157}{157}.{157}
+
+Bin 360
+rep 15 shape 3 triplet 8
+{158}{158}.{158}
+
+Bin 361
+rep 16 shape 1 triplet 1
+.{161}{161}{161}
+
+Bin 362
+rep 16 shape 1 triplet 2
+.{162}{162}{162}
+
+Bin 363
+rep 16 shape 1 triplet 3
+.{163}{163}{163}
+
+Bin 364
+rep 16 shape 1 triplet 4
+.{164}{164}{164}
+
+Bin 365
+rep 16 shape 1 triplet 5
+.{165}{165}{165}
+
+Bin 366
+rep 16 shape 1 triplet 6
+.{166}{166}{166}
+
+Bin 367
+rep 16 shape 1 triplet 7
+.{167}{167}{167}
+
+Bin 368
+rep 16 shape 1 triplet 8
+.{168}{168}{168}
+
+Bin 369
+rep 16 shape 2 triplet 1
+{161}.{161}{161}
+
+Bin 370
+rep 16 shape 2 triplet 2
+{162}.{162}{162}
+
+Bin 371
+rep 16 shape 2 triplet 3
+{163}.{163}{163}
+
+Bin 372
+rep 16 shape 2 triplet 4
+{164}.{164}{164}
+
+Bin 373
+rep 16 shape 2 triplet 5
+{165}.{165}{165}
+
+Bin 374
+rep 16 shape 2 triplet 6
+{166}.{166}{166}
+
+Bin 375
+rep 16 shape 2 triplet 7
+{167}.{167}{167}
+
+Bin 376
+rep 16 shape 2 triplet 8
+{168}.{168}{168}
+
+Bin 377
+rep 16 shape 3 triplet 1
+{161}{161}.{161}
+
+Bin 378
+rep 16 shape 3 triplet 2
+{162}{162}.{162}
+
+Bin 379
+rep 16 shape 3 triplet 3
+{163}{163}.{163}
+
+Bin 380
+rep 16 shape 3 triplet 4
+{164}{164}.{164}
+
+Bin 381
+rep 16 shape 3 triplet 5
+{165}{165}.{165}
+
+Bin 382
+rep 16 shape 3 triplet 6
+{166}{166}.{166}
+
+Bin 383
+rep 16 shape 3 triplet 7
+{167}{167}.{167}
+
+Bin 384
+rep 16 shape 3 triplet 8
+{168}{168}.{168}
+
+Bin 385
+rep 17 shape 1 triplet 1
+.{171}{171}{171}
+
+Bin 386
+rep 17 shape 1 triplet 2
+.{172}{172}{172}
+
+Bin 387
+rep 17 shape 1 triplet 3
+.{173}{173}{173}
+
+Bin 388
+rep 17 shape 1 triplet 4
+.{174}{174}{174}
+
+Bin 389
+rep 17 shape 1 triplet 5
+.{175}{175}{175}
+
+Bin 390
+rep 17 shape 1 triplet 6
+.{176}{176}{176}
+
+Bin 391
+rep 17 shape 1 triplet 7
+.{177}{177}{177}
+
+Bin 392
+rep 17 shape 1 triplet 8
+.{178}{178}{178}
+
+Bin 393
+rep 17 shape 2 triplet 1
+{171}.{171}{171}
+
+Bin 394
+rep 17 shape 2 triplet 2
+{172}.{172}{172}
+
+Bin 395
+rep 17 shape 2 triplet 3
+{173}.{173}{173}
+
+Bin 396
+rep 17 shape 2 triplet 4
+{174}.{174}{174}
+
+Bin 397
+rep 17 shape 2 triplet 5
+{175}.{175}{175}
+
+Bin 398
+rep 17 shape 2 triplet 6
+{176}.{176}{176}
+
+Bin 399
+rep 17 shape 2 triplet 7
+{177}.{177}{177}
+
+Bin 400
+rep 17 shape 2 triplet 8
+{178}.{178}{178}
+
+Bin 401
+rep 17 shape 3 triplet 1
+{171}{171}.{171}
+
+Bin 402
+rep 17 shape 3 triplet 2
+{172}{172}.{172}
+
+Bin 403
+rep 17 shape 3 triplet 3
+{173}{173}.{173}
+
+Bin 404
+rep 17 shape 3 triplet 4
+{174}{174}.{174}
+
+Bin 405
+rep 17 shape 3 triplet 5
+{175}{175}.{175}
+
+Bin 406
+rep 17 shape 3 triplet 6
+{176}{176}.{176}
+
+Bin 407
+rep 17 shape 3 triplet 7
+{177}{177}.{177}
+
+Bin 408
+rep 17 shape 3 triplet 8
+{178}{178}.{178}
+
+Bin 409
+rep 18 shape 1 triplet 1
+.{181}{181}{181}
+
+Bin 410
+rep 18 shape 1 triplet 2
+.{182}{182}{182}
+
+Bin 411
+rep 18 shape 1 triplet 3
+.{183}{183}{183}
+
+Bin 412
+rep 18 shape 1 triplet 4
+.{184}{184}{184}
+
+Bin 413
+rep 18 shape 1 triplet 5
+.{185}{185}{185}
+
+Bin 414
+rep 18 shape 1 triplet 6
+.{186}{186}{186}
+
+Bin 415
+rep 18 shape 1 triplet 7
+.{187}{187}{187}
+
+Bin 416
+rep 18 shape 1 triplet 8
+.{188}{188}{188}
+
+Bin 417
+rep 18 shape 2 triplet 1
+{181}.{181}{181}
+
+Bin 418
+rep 18 shape 2 triplet 2
+{182}.{182}{182}
+
+Bin 419
+rep 18 shape 2 triplet 3
+{183}.{183}{183}
+
+Bin 420
+rep 18 shape 2 triplet 4
+{184}.{184}{184}
+
+Bin 421
+rep 18 shape 2 triplet 5
+{185}.{185}{185}
+
+Bin 422
+rep 18 shape 2 triplet 6
+{186}.{186}{186}
+
+Bin 423
+rep 18 shape 2 triplet 7
+{187}.{187}{187}
+
+Bin 424
+rep 18 shape 2 triplet 8
+{188}.{188}{188}
+
+Bin 425
+rep 18 shape 3 triplet 1
+{181}{181}.{181}
+
+Bin 426
+rep 18 shape 3 triplet 2
+{182}{182}.{182}
+
+Bin 427
+rep 18 shape 3 triplet 3
+{183}{183}.{183}
+
+Bin 428
+rep 18 shape 3 triplet 4
+{184}{184}.{184}
+
+Bin 429
+rep 18 shape 3 triplet 5
+{185}{185}.{185}
+
+Bin 430
+rep 18 shape 3 triplet 6
+{186}{186}.{186}
+
+Bin 431
+rep 18 shape 3 triplet 7
+{187}{187}.{187}
+
+Bin 432
+rep 18 shape 3 triplet 8
+{188}{188}.{188}
+
+Bin 433
+rep 19 shape 1 triplet 1
+.{191}{191}{191}
+
+Bin 434
+rep 19 shape 1 triplet 2
+.{192}{192}{192}
+
+Bin 435
+rep 19 shape 1 triplet 3
+.{193}{193}{193}
+
+Bin 436
+rep 19 shape 1 triplet 4
+.{194}{194}{194}
+
+Bin 437
+rep 19 shape 1 triplet 5
+.{195}{195}{195}
+
+Bin 438
+rep 19 shape 1 triplet 6
+.{196}{196}{196}
+
+Bin 439
+rep 19 shape 1 triplet 7
+.{197}{197}{197}
+
+Bin 440
+rep 19 shape 1 triplet 8
+.{198}{198}{198}
+
+Bin 441
+rep 19 shape 2 triplet 1
+{191}.{191}{191}
+
+Bin 442
+rep 19 shape 2 triplet 2
+{192}.{192}{192}
+
+Bin 443
+rep 19 shape 2 triplet 3
+{193}.{193}{193}
+
+Bin 444
+rep 19 shape 2 triplet 4
+{194}.{194}{194}
+
+Bin 445
+rep 19 shape 2 triplet 5
+{195}.{195}{195}
+
+Bin 446
+rep 19 shape 2 triplet 6
+{196}.{196}{196}
+
+Bin 447
+rep 19 shape 2 triplet 7
+{197}.{197}{197}
+
+Bin 448
+rep 19 shape 2 triplet 8
+{198}.{198}{198}
+
+Bin 449
+rep 19 shape 3 triplet 1
+{191}{191}.{191}
+
+Bin 450
+rep 19 shape 3 triplet 2
+{192}{192}.{192}
+
+Bin 451
+rep 19 shape 3 triplet 3
+{193}{193}.{193}
+
+Bin 452
+rep 19 shape 3 triplet 4
+{194}{194}.{194}
+
+Bin 453
+rep 19 shape 3 triplet 5
+{195}{195}.{195}
+
+Bin 454
+rep 19 shape 3 triplet 6
+{196}{196}.{196}
+
+Bin 455
+rep 19 shape 3 triplet 7
+{197}{197}.{197}
+
+Bin 456
+rep 19 shape 3 triplet 8
+{198}{198}.{198}
+
+Bin 457
+rep 20 shape 1 triplet 1
+.{201}{201}{201}
+
+Bin 458
+rep 20 shape 1 triplet 2
+.{202}{202}{202}
+
+Bin 459
+rep 20 shape 1 triplet 3
+.{203}{203}{203}
+
+Bin 460
+rep 20 shape 1 triplet 4
+.{204}{204}{204}
+
+Bin 461
+rep 20 shape 1 triplet 5
+.{205}{205}{205}
+
+Bin 462
+rep 20 shape 1 triplet 6
+.{206}{206}{206}
+
+Bin 463
+rep 20 shape 1 triplet 7
+.{207}{207}{207}
+
+Bin 464
+rep 20 shape 1 triplet 8
+.{208}{208}{208}
+
+Bin 465
+rep 20 shape 2 triplet 1
+{201}.{201}{201}
+
+Bin 466
+rep 20 shape 2 triplet 2
+{202}.{202}{202}
+
+Bin 467
+rep 20 shape 2 triplet 3
+{203}.{203}{203}
+
+Bin 468
+rep 20 shape 2 triplet 4
+{204}.{204}{204}
+
+Bin 469
+rep 20 shape 2 triplet 5
+{205}.{205}{205}
+
+Bin 470
+rep 20 shape 2 triplet 6
+{206}.{206}{206}
+
+Bin 471
+rep 20 shape 2 triplet 7
+{207}.{207}{207}
+
+Bin 472
+rep 20 shape 2 triplet 8
+{208}.{208}{208}
+
+Bin 473
+rep 20 shape 3 triplet 1
+{201}{201}.{201}
+
+Bin 474
+rep 20 shape 3 triplet 2
+{202}{202}.{202}
+
+Bin 475
+rep 20 shape 3 triplet 3
+{203}{203}.{203}
+
+Bin 476
+rep 20 shape 3 triplet 4
+{204}{204}.{204}
+
+Bin 477
+rep 20 shape 3 triplet 5
+{205}{205}.{205}
+
+Bin 478
+rep 20 shape 3 triplet 6
+{206}{206}.{206}
+
+Bin 479
+rep 20 shape 3 triplet 7
+{207}{207}.{207}
+
+Bin 480
+rep 20 shape 3 triplet 8
+{208}{208}.{208}
+
+Bin 481
+rep 21 shape 1 triplet 1
+.{211}{211}{211}
+
+Bin 482
+rep 21 shape 1 triplet 2
+.{212}{212}{212}
+
+Bin 483
+rep 21 shape 1 triplet 3
+.{213}{213}{213}
+
+Bin 484
+rep 21 shape 1 triplet 4
+.{214}{214}{214}
+
+Bin 485
+rep 21 shape 1 triplet 5
+.{215}{215}{215}
+
+Bin 486
+rep 21 shape 1 triplet 6
+.{216}{216}{216}
+
+Bin 487
+rep 21 shape 1 triplet 7
+.{217}{217}{217}
+
+Bin 488
+rep 21 shape 1 triplet 8
+.{218}{218}{218}
+
+Bin 489
+rep 21 shape 2 triplet 1
+{211}.{211}{211}
+
+Bin 490
+rep 21 shape 2 triplet 2
+{212}.{212}{212}
+
+Bin 491
+rep 21 shape 2 triplet 3
+{213}.{213}{213}
+
+Bin 492
+rep 21 shape 2 triplet 4
+{214}.{214}{214}
+
+Bin 493
+rep 21 shape 2 triplet 5
+{215}.{215}{215}
+
+Bin 494
+rep 21 shape 2 triplet 6
+{216}.{216}{216}
+
+Bin 495
+rep 21 shape 2 triplet 7
+{217}.{217}{217}
+
+Bin 496
+rep 21 shape 2 triplet 8
+{218}.{218}{218}
+
+Bin 497
+rep 21 shape 3 triplet 1
+{211}{211}.{211}
+
+Bin 498
+rep 21 shape 3 triplet 2
+{212}{212}.{212}
+
+Bin 499
+rep 21 shape 3 triplet 3
+{213}{213}.{213}
+
+Bin 500
+rep 21 shape 3 triplet 4
+{214}{214}.{214}
+
+Bin 501
+rep 21 shape 3 triplet 5
+{215}{215}.{215}
+
+Bin 502
+rep 21 shape 3 triplet 6
+{216}{216}.{216}
+
+Bin 503
+rep 21 shape 3 triplet 7
+{217}{217}.{217}
+
+Bin 504
+rep 21 shape 3 triplet 8
+{218}{218}.{218}
+
+Bin 505
+rep 22 shape 1 triplet 1
+.{221}{221}{221}
+
+Bin 506
+rep 22 shape 1 triplet 2
+.{222}{222}{222}
+
+Bin 507
+rep 22 shape 1 triplet 3
+.{223}{223}{223}
+
+Bin 508
+rep 22 shape 1 triplet 4
+.{224}{224}{224}
+
+Bin 509
+rep 22 shape 1 triplet 5
+.{225}{225}{225}
+
+Bin 510
+rep 22 shape 1 triplet 6
+.{226}{226}{226}
+
+Bin 511
+rep 22 shape 1 triplet 7
+.{227}{227}{227}
+
+Bin 512
+rep 22 shape 1 triplet 8
+.{228}{228}{228}
+
+Bin 513
+rep 22 shape 2 triplet 1
+{221}.{221}{221}
+
+Bin 514
+rep 22 shape 2 triplet 2
+{222}.{222}{222}
+
+Bin 515
+rep 22 shape 2 triplet 3
+{223}.{223}{223}
+
+Bin 516
+rep 22 shape 2 triplet 4
+{224}.{224}{224}
+
+Bin 517
+rep 22 shape 2 triplet 5
+{225}.{225}{225}
+
+Bin 518
+rep 22 shape 2 triplet 6
+{226}.{226}{226}
+
+Bin 519
+rep 22 shape 2 triplet 7
+{227}.{227}{227}
+
+Bin 520
+rep 22 shape 2 triplet 8
+{228}.{228}{228}
+
+Bin 521
+rep 22 shape 3 triplet 1
+{221}{221}.{221}
+
+Bin 522
+rep 22 shape 3 triplet 2
+{222}{222}.{222}
+
+Bin 523
+rep 22 shape 3 triplet 3
+{223}{223}.{223}
+
+Bin 524
+rep 22 shape 3 triplet 4
+{224}{224}.{224}
+
+Bin 525
+rep 22 shape 3 triplet 5
+{225}{225}.{225}
+
+Bin 526
+rep 22 shape 3 triplet 6
+{226}{226}.{226}
+
+Bin 527
+rep 22 shape 3 triplet 7
+{227}{227}.{227}
+
+Bin 528
+rep 22 shape 3 triplet 8
+{228}{228}.{228}
+
+Bin 529
+rep 23 shape 1 triplet 1
+.{231}{231}{231}
+
+Bin 530
+rep 23 shape 1 triplet 2
+.{232}{232}{232}
+
+Bin 531
+rep 23 shape 1 triplet 3
+.{233}{233}{233}
+
+Bin 532
+rep 23 shape 1 triplet 4
+.{234}{234}{234}
+
+Bin 533
+rep 23 shape 1 triplet 5
+.{235}{235}{235}
+
+Bin 534
+rep 23 shape 1 triplet 6
+.{236}{236}{236}
+
+Bin 535
+rep 23 shape 1 triplet 7
+.{237}{237}{237}
+
+Bin 536
+rep 23 shape 1 triplet 8
+.{238}{238}{238}
+
+Bin 537
+rep 23 shape 2 triplet 1
+{231}.{231}{231}
+
+Bin 538
+rep 23 shape 2 triplet 2
+{232}.{232}{232}
+
+Bin 539
+rep 23 shape 2 triplet 3
+{233}.{233}{233}
+
+Bin 540
+rep 23 shape 2 triplet 4
+{234}.{234}{234}
+
+Bin 541
+rep 23 shape 2 triplet 5
+{235}.{235}{235}
+
+Bin 542
+rep 23 shape 2 triplet 6
+{236}.{236}{236}
+
+Bin 543
+rep 23 shape 2 triplet 7
+{237}.{237}{237}
+
+Bin 544
+rep 23 shape 2 triplet 8
+{238}.{238}{238}
+
+Bin 545
+rep 23 shape 3 triplet 1
+{231}{231}.{231}
+
+Bin 546
+rep 23 shape 3 triplet 2
+{232}{232}.{232}
+
+Bin 547
+rep 23 shape 3 triplet 3
+{233}{233}.{233}
+
+Bin 548
+rep 23 shape 3 triplet 4
+{234}{234}.{234}
+
+Bin 549
+rep 23 shape 3 triplet 5
+{235}{235}.{235}
+
+Bin 550
+rep 23 shape 3 triplet 6
+{236}{236}.{236}
+
+Bin 551
+rep 23 shape 3 triplet 7
+{237}{237}.{237}
+
+Bin 552
+rep 23 shape 3 triplet 8
+{238}{238}.{238}
+
+Bin 553
+rep 24 shape 1 triplet 1
+.{241}{241}{241}
+
+Bin 554
+rep 24 shape 1 triplet 2
+.{242}{242}{242}
+
+Bin 555
+rep 24 shape 1 triplet 3
+.{243}{243}{243}
+
+Bin 556
+rep 24 shape 1 triplet 4
+.{244}{244}{244}
+
+Bin 557
+rep 24 shape 1 triplet 5
+.{245}{245}{245}
+
+Bin 558
+rep 24 shape 1 triplet 6
+.{246}{246}{246}
+
+Bin 559
+rep 24 shape 1 triplet 7
+.{247}{247}{247}
+
+Bin 560
+rep 24 shape 1 triplet 8
+.{248}{248}{248}
+
+Bin 561
+rep 24 shape 2 triplet 1
+{241}.{241}{241}
+
+Bin 562
+rep 24 shape 2 triplet 2
+{242}.{242}{242}
+
+Bin 563
+rep 24 shape 2 triplet 3
+{243}.{243}{243}
+
+Bin 564
+rep 24 shape 2 triplet 4
+{244}.{244}{244}
+
+Bin 565
+rep 24 shape 2 triplet 5
+{245}.{245}{245}
+
+Bin 566
+rep 24 shape 2 triplet 6
+{246}.{246}{246}
+
+Bin 567
+rep 24 shape 2 triplet 7
+{247}.{247}{247}
+
+Bin 568
+rep 24 shape 2 triplet 8
+{248}.{248}{248}
+
+Bin 569
+rep 24 shape 3 triplet 1
+{241}{241}.{241}
+
+Bin 570
+rep 24 shape 3 triplet 2
+{242}{242}.{242}
+
+Bin 571
+rep 24 shape 3 triplet 3
+{243}{243}.{243}
+
+Bin 572
+rep 24 shape 3 triplet 4
+{244}{244}.{244}
+
+Bin 573
+rep 24 shape 3 triplet 5
+{245}{245}.{245}
+
+Bin 574
+rep 24 shape 3 triplet 6
+{246}{246}.{246}
+
+Bin 575
+rep 24 shape 3 triplet 7
+{247}{247}.{247}
+
+Bin 576
+rep 24 shape 3 triplet 8
+{248}{248}.{248}
